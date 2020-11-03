@@ -1,2 +1,2 @@
-# IZVP_Practice_
- Java Practice
+# IZVP_Practice
+Практические задания по ИЗВП
